@@ -1,7 +1,7 @@
 //consimo de la API instagram
 const BASE_API = "https://graph.instagram.com/me";
 const ACCESS_TOKEN =
-  "IGQVJXaUptZAHVDWmF0OElNV3lmdUh2bzNqWnl6UTFKVmtmZAlc2VFFEYmhlQzdDemkxSldSdmJBalRQTWh0T1MwYnBBR21PV0RyOFlXTm5Ua2NvN1gtU3lYN3JNYzV5VURBbGh0RDFfakZAwdzRadWJCa1h2OG43M3dqV3Nn";
+  "IGQVJVSkNFRGUwZAjRRSVBTV1pkRFVmMkhuRUh4a0h0bGh6bHc2RExhMGVUX1JrVlpJS1l1c2NUZAjBTYjNpM1BKRDItTnJ2SnFXQXVodmZAuaDMwOFo1aGtDdkl4a1BTU3h1R2x6MW13VnNyWlJ5LTNWUAZDZD";
 // accedemos al DOM
 const username = document.getElementById("username");
 const posts = document.getElementById("posts");
